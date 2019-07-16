@@ -13,5 +13,7 @@ public class Borrower {
     }
 
 
-    
+    public String getName(){
+        return this.name;
+    }
 }
